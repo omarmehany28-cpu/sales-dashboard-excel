@@ -1,7 +1,7 @@
 # 📊 Sales Dashboard – Excel
 
 An interactive **Sales Performance Dashboard** built in Microsoft Excel using the **Kaggle Superstore Dataset**.
-
+![Dashboard Preview](Picsart_26-05-05_05-35-35-565.jpg)
 ---
 
 ## 🎯 Project Overview
